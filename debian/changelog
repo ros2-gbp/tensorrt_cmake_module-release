@@ -1,0 +1,30 @@
+ros-kilted-tensorrt-cmake-module (0.0.4-3bookworm) bookworm; urgency=high
+
+  * feat: not including deprecated lib for TRT 9+ (#1 <https://github.com/tier4/tensorrt_cmake_module//issues/1>)
+  * Contributors: Amadeusz Szymko
+
+ -- Daisuke Nishimatsu <daisuke.nishimatsu@tier4.jp>  Mon, 23 Dec 2024 06:00:00 -0000
+
+ros-kilted-tensorrt-cmake-module (0.0.3-3bookworm) bookworm; urgency=high
+
+  * chore: rename cmake file
+  * Contributors: Daisuke Nishimatsu
+
+ -- Daisuke Nishimatsu <daisuke.nishimatsu@tier4.jp>  Fri, 24 Jun 2022 05:00:00 -0000
+
+ros-kilted-tensorrt-cmake-module (0.0.2-3bookworm) bookworm; urgency=high
+
+  * fix: fix cmake variable name
+  * Contributors: wep21
+
+ -- Daisuke Nishimatsu <daisuke.nishimatsu@tier4.jp>  Wed, 02 Feb 2022 06:00:00 -0000
+
+ros-kilted-tensorrt-cmake-module (0.0.1-3bookworm) bookworm; urgency=high
+
+  * ci: add build and test action
+  * initial commit
+  * Contributors: wep21
+
+ -- Daisuke Nishimatsu <daisuke.nishimatsu@tier4.jp>  Wed, 19 Jan 2022 06:00:00 -0000
+
+
