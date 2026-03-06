@@ -1,3 +1,26 @@
+## tensorrt_cmake_module (rolling) - 0.0.5-1
+
+The packages in the `tensorrt_cmake_module` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --rosdistro rolling tensorrt_cmake_module` on `Fri, 06 Mar 2026 05:18:27 -0000`
+
+The `tensorrt_cmake_module` package was released.
+
+Version of package(s) in repository `tensorrt_cmake_module`:
+
+- upstream repository: https://github.com/tier4/tensorrt_cmake_module.git
+- release repository: https://github.com/ros2-gbp/tensorrt_cmake_module-release.git
+- rosdistro version: `0.0.4-2`
+- old version: `0.0.4-2`
+- new version: `0.0.5-1`
+
+Versions of tools used:
+
+- bloom version: `0.13.0`
+- catkin_pkg version: `1.1.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## tensorrt_cmake_module (kilted) - 0.0.5-1
 
 The packages in the `tensorrt_cmake_module` repository were released into the `kilted` distro by running `/usr/bin/bloom-release --rosdistro kilted tensorrt_cmake_module` on `Fri, 06 Mar 2026 05:15:12 -0000`
