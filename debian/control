@@ -1,0 +1,12 @@
+Source: ros-lyrical-tensorrt-cmake-module
+Section: misc
+Priority: optional
+Maintainer: Daisuke Nishimatsu <daisuke.nishimatsu@tier4.jp>
+Build-Depends: debhelper (>= 9.0.0), ros-lyrical-ament-cmake, ros-lyrical-ament-cmake-copyright <!nocheck>, ros-lyrical-ament-cmake-lint-cmake <!nocheck>, ros-lyrical-ament-cmake-xmllint <!nocheck>, ros-lyrical-ros-workspace
+Homepage: https://index.ros.org/p/tensorrt_cmake_module/#lyrical
+Standards-Version: 3.9.2
+
+Package: ros-lyrical-tensorrt-cmake-module
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-lyrical-ros-workspace
+Description: Exports a CMake module to find TensorRT.
